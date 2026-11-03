@@ -1,17 +1,68 @@
-# 💫 About Me:
-Hi, I'm Shaikh Mohd Adil 👋<br>I'm a first-year B.E. Computer Engineering student with an interest in programming and software development.<br><br>About Me<br>Currently learning Java and exploring Python.<br>Practising Data Structures and Algorithms (DSA).<br>Working on improving my programming fundamentals and problem-solving skills.<br>Interested in learning new technologies and building practical projects.<br>Languages & Technologies<br>Java<br>Python (Exploring)<br>C (Learning)<br>Git & GitHub<br>My Goals<br>I want to strengthen my coding fundamentals, work on projects, gain practical experience and grow as a software developer.<br><br>Connect With Me<br>GitHub: My GitHub Profile<br>Always learning something new and getting better one step at a time.<br><br>
+👋 Hi, I'm Shaikh Mohd Adil
 
+🎓 First-Year B.E. Computer Engineering Student | Aspiring Software Developer
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Adil-Shaikh-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Adil-Shaikh-code&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adil-Shaikh-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm passionate about programming, problem-solving, and exploring new technologies. Currently building my programming fundamentals and learning how to turn ideas into practical projects.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adil-Shaikh-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+💫 About Me
+🔭 Currently working on strengthening my programming fundamentals.
+🌱 Learning Java and exploring Python.
+👯 Looking to collaborate on beginner-friendly programming projects.
+🤝 Looking for guidance and opportunities to improve my coding skills.
+💬 Ask me about Java basics, Python basics, C, and DSA fundamentals.
+⚡ Fun fact: I believe consistency and curiosity are the keys to becoming a better developer!
+🎯 My Goals
+Strengthen programming fundamentals.
+Improve Data Structures and Algorithms (DSA).
+Build practical projects.
+Learn new technologies.
+Gain real-world development experience.
+Grow as a software developer.
+🌐 Connect With Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+💻 Tech Stack
+
+!Java !Python !C !C++ !Git !GitHub
+
+📊 GitHub Stats
+
+!
+
+!
+
+!
+
+🏆 GitHub Trophies
+
+!
+
+✍️ Random Dev Quote
+
+!
+
+🐍 Contribution Snake
+
+<p align="center">
+<picture>
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Adil-Shaikh-code/Adil-Shaikh-code/output/github-contribution-grid-snake-dark.svg"
+/>
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Adil-Shaikh-code/Adil-Shaikh-code/output/github-contribution-grid-snake.svg"
+/>
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Adil-Shaikh-code/Adil-Shaikh-code/output/github-contribution-grid-snake.svg"
+/>
+</picture>
+</p>
+
+👀 Profile Visitors
+
+!
+
+⭐ Always learning, always building, and getting better one step at a time!
