@@ -24,4 +24,4 @@ Connect With Me
 
 - GitHub: "My GitHub Profile" (https://github.com/Adil-Shaikh-code)
 
-Always earger for learning something new and getting better one step at a time.
+Always eager for learning something new and getting better one step at a time.
